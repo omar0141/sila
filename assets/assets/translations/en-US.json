@@ -362,11 +362,16 @@
   "opened": "Opened",
   "leave": "Leave",
   "leaveGroupTitle": "Leave Group",
-  "leaveGroupConfirm": "Are you sure you want to leave the group \"{0}\"?",
+  "leaveGroupConfirm": "Are you sure you want to leave the group {}?",
   "editGroupName": "Edit Group Name",
   "groupNamePlaceholder": "Enter group name",
   "removeMember": "Remove Member",
-  "removeMemberConfirm": "Are you sure you want to remove \"{0}\" from the group?",
+  "removeMemberConfirm": "Are you sure you want to remove {} from the group?",
   "remove": "Remove",
-  "groupCreator": "Group Creator"
+  "groupCreator": "Group Creator",
+  "memberExistsTitle": "Member Exists",
+  "memberExistsMessage": "This member ({}) is already in the group.",
+  "ok": "OK",
+  "newGroup": "New Group",
+  "newChat" : "New Chat"
 }

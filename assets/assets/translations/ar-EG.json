@@ -359,11 +359,16 @@
   "opened": "مفتوح",
   "leave": "مغادرة",
   "leaveGroupTitle": "مغادرة المجموعة",
-  "leaveGroupConfirm": "هل أنت متأكد أنك تريد مغادرة المجموعة \"{0}\"؟",
+  "leaveGroupConfirm": "هل أنت متأكد أنك تريد مغادرة المجموعة {}؟",
   "editGroupName": "تعديل اسم المجموعة",
   "groupNamePlaceholder": "أدخل اسم المجموعة",
   "removeMember": "إزالة عضو",
-  "removeMemberConfirm": "هل أنت متأكد أنك تريد إزالة \"{0}\" من المجموعة؟",
+  "removeMemberConfirm": "هل أنت متأكد أنك تريد إزالة {} من المجموعة؟",
   "remove": "إزالة",
-  "groupCreator": "منشئ المجموعة"
+  "groupCreator": "منشئ المجموعة",
+  "memberExistsTitle": "العضو موجود",
+  "memberExistsMessage": "هذا العضو موجود بالفعل في المجموعة: {}.",
+  "ok": "حسناً",
+  "newGroup": "مجموعة جديدة",
+  "newChat": "دردشة جديدة"
 }
