@@ -393,5 +393,15 @@
   "select-cc-members": "اختر أعضاء نسخة إلى",
   "members-selected": "تم اختيار الأعضاء",
   "no-members-found": "لم يتم العثور على أعضاء",
-  "selectChannel": "اختر قناة"
+  "selectChannel": "اختر قناة",
+  "areYouSureEndTicket": "هل أنت متأكد أنك تريد إنهاء التذكرة؟",
+  "areYouSureCloseTicket": "هل أنت متأكد أنك تريد إغلاق التذكرة؟",
+  "areYouSureHoldTicket": "هل أنت متأكد أنك تريد تعليق التذكرة؟",
+  "areYouSureReopenTicket": "هل أنت متأكد أنك تريد إعادة فتح التذكرة؟",
+  "ticketInfo": "معلومات التذكرة",
+  "createdDate": "تاريخ الإنشاء",
+  "endedDate": "تاريخ الانتهاء",
+  "closedDate": "تاريخ الإغلاق",
+  "openChannelPrompt": "هل أنت متأكد أنك تريد فتح هذه القناة؟",
+  "open": "فتح"
 }

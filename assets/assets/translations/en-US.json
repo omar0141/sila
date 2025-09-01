@@ -396,5 +396,15 @@
   "select-cc-members": "Select CC Members",
   "members-selected": "members selected",
   "no-members-found": "No members found",
-  "selectChannel": "Select Channel"
+  "selectChannel": "Select Channel",
+  "areYouSureEndTicket": "Are you sure you want to end the ticket?",
+  "areYouSureCloseTicket": "Are you sure you want to close the ticket?",
+  "areYouSureHoldTicket": "Are you sure you want to hold the ticket?",
+  "areYouSureReopenTicket": "Are you sure you want to reopen the ticket?",
+  "ticketInfo": "Ticket Info",
+  "createdDate": "Created Date",
+  "endedDate": "Ended Date",
+  "closedDate": "Closed Date",
+  "openChannelPrompt": "Are you sure you want to open this channel?",
+  "open": "Open"
 }
