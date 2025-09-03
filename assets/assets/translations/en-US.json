@@ -406,5 +406,17 @@
   "endedDate": "Ended Date",
   "closedDate": "Closed Date",
   "openChannelPrompt": "Are you sure you want to open this channel?",
-  "open": "Open"
+  "open": "Open",
+  "End": "Ended",
+  "Close": "Closed",
+  "New": "New",
+  "Forwarded": "Forwarded",
+  "Approve Waiting": "Approve waiting",
+  "invite": "Invite",
+  "areYouSureLeaveTicket": "Are you sure you want to leave the ticket?",
+  "areYouSureCancelTicket": "Are you sure you want to cancel the ticket?",
+  "areYouSureApproveTicket": "Are you sure you want to approve the ticket?",
+  "areYouSureRejectTicket": "Are you sure you want to reject the ticket?",
+  "approve": "Approve",
+  "reject": "Reject"
 }

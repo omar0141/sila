@@ -403,5 +403,17 @@
   "endedDate": "تاريخ الانتهاء",
   "closedDate": "تاريخ الإغلاق",
   "openChannelPrompt": "هل أنت متأكد أنك تريد فتح هذه القناة؟",
-  "open": "فتح"
+  "open": "فتح",
+  "End": "إنهاء",
+  "Close": "إغلاق",
+  "New": "جديد",
+  "Forwarded": "معاد توجيهه",
+  "Approve Waiting": "انتظار الموافقة",
+  "Invite": "دعوة",
+  "Are you sure you want to leave the ticket?": "هل أنت متأكد أنك تريد مغادرة التذكرة؟",
+  "Are you sure you want to cancel the ticket?": "هل أنت متأكد أنك تريد إلغاء التذكرة؟",
+  "Are you sure you want to approve the ticket?": "هل أنت متأكد أنك تريد الموافقة على التذكرة؟",
+  "Are you sure you want to reject the ticket?": "هل أنت متأكد أنك تريد رفض التذكرة؟",
+  "Approve": "موافقة",
+  "Reject": "رفض"
 }
