@@ -415,5 +415,20 @@
   "Are you sure you want to approve the ticket?": "هل أنت متأكد أنك تريد الموافقة على التذكرة؟",
   "Are you sure you want to reject the ticket?": "هل أنت متأكد أنك تريد رفض التذكرة؟",
   "Approve": "موافقة",
-  "Reject": "رفض"
+  "Reject": "رفض",
+  "Inbox": "الوارد",
+  "Sent": "المرسل",
+  "qmail": "كيو ميل",
+  "qmailInfo": "معلومات كيو ميل",
+  "areYouSureLeaveQMail": "هل أنت متأكد أنك تريد مغادرة كيو ميل هذا؟",
+  "areYouSureEndQMail": "هل أنت متأكد أنك تريد إنهاء كيو ميل هذا؟",
+  "create-new-qmail": "إنشاء كيو ميل جديد",
+  "qmail-title": "عنوان كيو ميل",
+  "enter-qmail-title": "أدخل عنوان كيو ميل",
+  "please-enter-qmail-title": "يرجى إدخال عنوان كيو ميل",
+  "qmail-subject": "موضوع كيو ميل",
+  "enter-qmail-subject": "أدخل موضوع كيو ميل",
+  "please-enter-qmail-subject": "يرجى إدخال موضوع كيو ميل",
+  "select-members": "اختر الأعضاء",
+  "newMail": "كيو ميل جديد"
 }

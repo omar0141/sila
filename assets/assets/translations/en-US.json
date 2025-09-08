@@ -418,5 +418,20 @@
   "areYouSureApproveTicket": "Are you sure you want to approve the ticket?",
   "areYouSureRejectTicket": "Are you sure you want to reject the ticket?",
   "approve": "Approve",
-  "reject": "Reject"
+  "reject": "Reject",
+  "Inbox": "Inbox",
+  "Sent": "Sent",
+  "qmail": "QMail",
+  "qmailInfo": "QMail Info",
+  "areYouSureLeaveQMail": "Are you sure you want to leave this QMail?",
+  "areYouSureEndQMail": "Are you sure you want to end this QMail?",
+  "create-new-qmail": "Create New QMail",
+  "qmail-title": "QMail Title",
+  "enter-qmail-title": "Enter QMail title",
+  "please-enter-qmail-title": "Please enter QMail title",
+  "qmail-subject": "QMail Subject",
+  "enter-qmail-subject": "Enter QMail subject",
+  "please-enter-qmail-subject": "Please enter QMail subject",
+  "select-members": "Select Members",
+  "newMail": "New QMail"
 }
