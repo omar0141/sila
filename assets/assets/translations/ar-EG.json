@@ -430,5 +430,12 @@
   "enter-qmail-subject": "أدخل موضوع كيو ميل",
   "please-enter-qmail-subject": "يرجى إدخال موضوع كيو ميل",
   "select-members": "اختر الأعضاء",
-  "newMail": "كيو ميل جديد"
+  "newMail": "كيو ميل جديد",
+  "please-enter-a-valid-username": "يرجى إدخال اسم مستخدم صالح",
+  "select-chat": "اختر دردشة",
+  "pleaseSelectAtLeastOneChat": "يرجى اختيار دردشة واحدة على الأقل",
+  "attach_file": "إرفاق ملف",
+  "change_image_profile": "تغيير صورة الملف الشخصي",
+  "change_password": "تغيير كلمة المرور",
+  "change_theme": "تغيير السمة"
 }

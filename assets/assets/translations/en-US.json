@@ -433,5 +433,12 @@
   "enter-qmail-subject": "Enter QMail subject",
   "please-enter-qmail-subject": "Please enter QMail subject",
   "select-members": "Select Members",
-  "newMail": "New QMail"
+  "newMail": "New QMail",
+  "please-enter-a-valid-username": "Please enter a valid username",
+  "select-chat": "Select Chat",
+  "pleaseSelectAtLeastOneChat": "Please select at least one chat",
+  "attach_file": "Attach File",
+  "change_image_profile": "Change Image Profile",
+  "change_password": "Change Password",
+  "change_theme": "Change Theme"
 }
