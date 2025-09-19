@@ -457,5 +457,6 @@
   "change": "تغيير",
   "please-enter-current-password": "يرجى إدخال كلمة المرور الحالية",
   "please-enter-new-password": "يرجى إدخال كلمة المرور الجديدة",
-  "please-enter-confirm-password": "يرجى إدخال تأكيد كلمة المرور"
+  "please-enter-confirm-password": "يرجى إدخال تأكيد كلمة المرور",
+  "newTicket": "تذكرة جديدة"
 }

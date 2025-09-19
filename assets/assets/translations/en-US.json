@@ -460,5 +460,6 @@
   "change": "Change",
   "please-enter-current-password": "Please enter current password",
   "please-enter-new-password": "Please enter new password",
-  "please-enter-confirm-password": "Please enter confirm password"
+  "please-enter-confirm-password": "Please enter confirm password",
+  "newTicket": "New Ticket"
 }
