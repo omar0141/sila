@@ -156207,7 +156207,7 @@ d=a7
 c=a6?1:0
 b=t.N
 s=9
-return A.e(o.x.Br(A.H(["operation",a8,"User",j,"TicketID",h,"ChnnelID",f,"LineData",B.a6.hb(A.H(["ChatID",0,"TicketID",i,"ChnnelID",g,"Text",b0,"TextStyle",e,"ReplayMsgID",a9,"LocalChatID",d,"OrginalChatID",a3,"IsAdmin",c],b,t.C),null),"LastChatID",o.as,"MinChatID",o.at],b,t.z),o.db),$async$qq)
+return A.e(o.x.Br(A.H(["operation",a8,"User",j,"TicketID",h,"ChannelID",f,"LineData",B.a6.hb(A.H(["ChatID",0,"TicketID",i,"ChannelID",g,"Text",b0,"TextStyle",e,"ReplayMsgID",a9,"LocalChatID",d,"OrginalChatID",a3,"IsAdmin",c],b,t.C),null),"LastChatID",o.as,"MinChatID",o.at],b,t.z),o.db),$async$qq)
 case 9:l=b4
 o.db=l
 o.Iu()
