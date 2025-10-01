@@ -520,5 +520,14 @@
   "recurse-every": "Recurse Every",
   "newScheduleTask": "New Schedule Task",
   "Message Details": "Message Details",
-  "Password must be changed": "Password must be changed"
+  "Password must be changed": "Password must be changed",
+  "You're using an outdated version. Update now to enjoy the latest features, improvements, and security enhancements.": "You're using an outdated version. Update now to enjoy the latest features, improvements, and security enhancements.",
+  "Update Required": "Update Required",
+  "My Tasks": "My Tasks",
+  "Remaining": "Remaining",
+  "Day": "Day",
+  "Days": "Days",
+  "Due Date": "Due Date",
+  "Over Due": "Over Due",
+  "n-a": "N/A"
 }

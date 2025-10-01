@@ -518,5 +518,14 @@
   "recurse-every": "تكرار كل",
   "newScheduleTask": "مهمة مجدولة جديدة",
   "Message Details": "تفاصيل الرسالة",
-  "Password must be changed": "يجب تغيير كلمة المرور"
+  "Password must be changed": "يجب تغيير كلمة المرور",
+  "You're using an outdated version. Update now to enjoy the latest features, improvements, and security enhancements.": "أنت تستخدم إصدارًا قديمًا. قم بالتحديث الآن للاستمتاع بأحدث الميزات والتحسينات وتحسينات الأمان.",
+  "Update Required": "التحديث مطلوب",
+  "My Tasks": "مهامي",
+  "Remaining": "المتبقي",
+  "Day": "يوم",
+  "Days": "أيام",
+  "Due Date": "تاريخ الاستحقاق",
+  "Over Due": "متأخر",
+  "n-a": "غير متوفر"
 }
