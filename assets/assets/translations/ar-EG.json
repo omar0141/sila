@@ -516,5 +516,7 @@
   "repeat": "تكرار",
   "task-info": "معلومات المهمة",
   "recurse-every": "تكرار كل",
-  "newScheduleTask": "مهمة مجدولة جديدة"
+  "newScheduleTask": "مهمة مجدولة جديدة",
+  "Message Details": "تفاصيل الرسالة",
+  "Password must be changed": "يجب تغيير كلمة المرور"
 }

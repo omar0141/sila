@@ -518,5 +518,7 @@
   "repeat": "Repeat",
   "task-info": "Task Information",
   "recurse-every": "Recurse Every",
-  "newScheduleTask": "New Schedule Task"
+  "newScheduleTask": "New Schedule Task",
+  "Message Details": "Message Details",
+  "Password must be changed": "Password must be changed"
 }
