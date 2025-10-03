@@ -529,5 +529,7 @@
   "Days": "Days",
   "Due Date": "Due Date",
   "Over Due": "Over Due",
-  "n-a": "N/A"
+  "n-a": "N/A",
+  "New Ticket": "New Ticket",
+  "Scheduled Tasks": "Scheduled Tasks"
 }
