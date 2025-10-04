@@ -531,5 +531,14 @@
   "Over Due": "Over Due",
   "n-a": "N/A",
   "New Ticket": "New Ticket",
-  "Scheduled Tasks": "Scheduled Tasks"
+  "Scheduled Tasks": "Scheduled Tasks",
+  "Ticket ID": "Ticket ID",
+  "Last Message": "Last Message",
+  "Last Maint Date": "Last Maint Date",
+  "Ended Date": "Ended Date",
+  "Closed Date": "Closed Date",
+  "Forward": "Forward",
+  "On Hold": "On Hold",
+  "Channel Name": "Channel Name",
+  "Ticket Subject": "Ticket Subject"
 }

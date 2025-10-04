@@ -529,5 +529,14 @@
   "Over Due": "متأخر",
   "n-a": "غير متوفر",
   "New Ticket": "تذكرة جديدة",
-  "Scheduled Tasks": "المهام المجدولة"
+  "Scheduled Tasks": "المهام المجدولة",
+  "Ticket ID": "معرف التذكرة",
+  "Last Message": "آخر رسالة",
+  "Last Maint Date": "تاريخ آخر صيانة",
+  "Ended Date": "تاريخ الانتهاء",
+  "Closed Date": "تاريخ الإغلاق",
+  "Forward": "إعادة توجيه",
+  "On Hold": "قيد الانتظار",
+  "Channel Name": "اسم القناة",
+  "Ticket Subject": "موضوع التذكرة"
 }
