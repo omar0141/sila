@@ -539,5 +539,7 @@
   "On Hold": "قيد الانتظار",
   "Channel Name": "اسم القناة",
   "Ticket Subject": "موضوع التذكرة",
-  "All Members": "جميع الأعضاء"
+  "All Members": "جميع الأعضاء",
+  "exitFullScreen": "الخروج من وضع ملء الشاشة",
+  "fullScreen": "وضع ملء الشاشة"
 }

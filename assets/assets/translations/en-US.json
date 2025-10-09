@@ -541,5 +541,7 @@
   "On Hold": "On Hold",
   "Channel Name": "Channel Name",
   "Ticket Subject": "Ticket Subject",
-  "All Members": "All Members"
+  "All Members": "All Members",
+  "exitFullScreen": "Exit Full Screen",
+  "fullScreen": "Full Screen"
 }
