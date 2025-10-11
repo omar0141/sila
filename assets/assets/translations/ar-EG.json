@@ -541,5 +541,12 @@
   "Ticket Subject": "موضوع التذكرة",
   "All Members": "جميع الأعضاء",
   "exitFullScreen": "الخروج من وضع ملء الشاشة",
-  "fullScreen": "وضع ملء الشاشة"
+  "fullScreen": "وضع ملء الشاشة",
+  "Completed": "مكتمل",
+  "High": "عالي",
+  "Medium": "متوسط",
+  "Low": "منخفض",
+  "Task Priority": "أولوية المهمة",
+  "In Progress": "قيد التقدم",
+  "Are you sure you want to start the task?": "هل أنت متأكد أنك تريد بدء المهمة؟"
 }

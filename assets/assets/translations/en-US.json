@@ -543,5 +543,12 @@
   "Ticket Subject": "Ticket Subject",
   "All Members": "All Members",
   "exitFullScreen": "Exit Full Screen",
-  "fullScreen": "Full Screen"
+  "fullScreen": "Full Screen",
+  "Completed": "Completed",
+  "High": "High",
+  "Medium": "Medium",
+  "Low": "Low",
+  "Task Priority": "Task Priority",
+  "In Progress": "In Progress",
+  "Are you sure you want to start the task?": "Are you sure you want to start the task?"
 }
