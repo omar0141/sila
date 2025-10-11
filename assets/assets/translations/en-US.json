@@ -550,5 +550,7 @@
   "Low": "Low",
   "Task Priority": "Task Priority",
   "In Progress": "In Progress",
-  "Are you sure you want to start the task?": "Are you sure you want to start the task?"
+  "Are you sure you want to start the task?": "Are you sure you want to start the task?",
+  "Start Time": "Start Time",
+  "End Time": "End Time"
 }

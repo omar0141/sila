@@ -548,5 +548,7 @@
   "Low": "منخفض",
   "Task Priority": "أولوية المهمة",
   "In Progress": "قيد التقدم",
-  "Are you sure you want to start the task?": "هل أنت متأكد أنك تريد بدء المهمة؟"
+  "Are you sure you want to start the task?": "هل أنت متأكد أنك تريد بدء المهمة؟",
+  "Start Time": "وقت البدء",
+  "End Time": "وقت الانتهاء"
 }
