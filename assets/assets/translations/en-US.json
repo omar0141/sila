@@ -552,5 +552,7 @@
   "In Progress": "In Progress",
   "Are you sure you want to start the task?": "Are you sure you want to start the task?",
   "Start Time": "Start Time",
-  "End Time": "End Time"
+  "End Time": "End Time",
+  "Are you sure you want to complete the task?": "Are you sure you want to complete the task?",
+  "Complete": "Complete"
 }

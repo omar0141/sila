@@ -550,5 +550,7 @@
   "In Progress": "قيد التقدم",
   "Are you sure you want to start the task?": "هل أنت متأكد أنك تريد بدء المهمة؟",
   "Start Time": "وقت البدء",
-  "End Time": "وقت الانتهاء"
+  "End Time": "وقت الانتهاء",
+  "Are you sure you want to complete the task?": "هل أنت متأكد أنك تريد إكمال المهمة؟",
+  "Complete": "إكمال"
 }
