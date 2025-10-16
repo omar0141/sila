@@ -552,5 +552,13 @@
   "Start Time": "وقت البدء",
   "End Time": "وقت الانتهاء",
   "Are you sure you want to complete the task?": "هل أنت متأكد أنك تريد إكمال المهمة؟",
-  "Complete": "إكمال"
+  "Complete": "إكمال",
+  "Skip": "تخطي",
+  "Update Complete": "اكتمل التحديث",
+  "The app has been updated successfully. Please restart the app to apply the new updates.": "تم تحديث التطبيق بنجاح. يرجى إعادة تشغيل التطبيق لتطبيق التحديثات الجديدة.",
+  "Loading...": "جار التحميل...",
+  "Starter": "المبتدئ",
+  "Started Date": "تاريخ البدء",
+  "Are you sure you want to start this ticket?": "هل أنت متأكد أنك تريد بدء هذه التذكرة؟",
+  "Scheduled": "مجدول"
 }

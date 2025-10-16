@@ -554,5 +554,13 @@
   "Start Time": "Start Time",
   "End Time": "End Time",
   "Are you sure you want to complete the task?": "Are you sure you want to complete the task?",
-  "Complete": "Complete"
+  "Complete": "Complete",
+  "Skip": "Skip",
+  "Update Complete": "Update Complete",
+  "The app has been updated successfully. Please restart the app to apply the new updates.": "The app has been updated successfully. Please restart the app to apply the new updates.",
+  "Loading...": "Loading...",
+  "Starter": "Starter",
+  "Started Date": "Started Date",
+  "Are you sure you want to start this ticket?": "Are you sure you want to start this ticket?",
+  "Scheduled": "Scheduled"
 }
