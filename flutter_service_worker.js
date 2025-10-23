@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "063aa7fe2cc7b8616c6f324d8f10fd7d",
-"version.json": "974f03822f025234dae3d67ba65c4b0a",
+const RESOURCES = {"flutter_bootstrap.js": "0f5aefbc79626c2bb1e83c0bdfbc2372",
+"version.json": "b1e41fa5acfdc7e8871c8bd281e5a929",
 "index.html": "5f0fba0f635f9235de6f5b1dfb1d6675",
 "/": "5f0fba0f635f9235de6f5b1dfb1d6675",
-"main.dart.js": "1eba06c99b253eeb8b651bc18cde6c39",
+"main.dart.js": "020729ce0c2e3215307ffb92fabe14fe",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "27ebb4be6d1c0f10426bb4d98cc291e0",
 "icons/Icon-192.png": "2eb2e5a2f9e78888e4505e9d075c39de",
@@ -48,7 +48,7 @@ const RESOURCES = {"flutter_bootstrap.js": "063aa7fe2cc7b8616c6f324d8f10fd7d",
 "assets/packages/localization/test/assets/lang/pt_BR.json": "f999b93065fe17d355d1ac5dcc1ff830",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "d7522ba628508114cae4a12e840a96db",
-"assets/fonts/MaterialIcons-Regular.otf": "280f46ea77950ce452b4b5d5032fb6ba",
+"assets/fonts/MaterialIcons-Regular.otf": "8e211463ed6fccdd4743572bc4c9ca23",
 "assets/assets/service_account.json": "7623fbb8e1ff94f96dcb40c9af0ea855",
 "assets/assets/images/united-kingdom.png": "32c5e88fec8fd4fb489fce2e7be9d18c",
 "assets/assets/images/chat-background.png": "b91241dd77f4cf6a16360a72247d0d6c",
