@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "f7ef735743037eed302521aebbd83d21",
-"version.json": "fe3a669683b74b271f9a400c313dab69",
+const RESOURCES = {"flutter_bootstrap.js": "a52bff09eb8c2dfa64ce4943bb50748f",
+"version.json": "d2b465d7b6d07507afca8a0542cf26c9",
 "index.html": "5f0fba0f635f9235de6f5b1dfb1d6675",
 "/": "5f0fba0f635f9235de6f5b1dfb1d6675",
-"main.dart.js": "dd571499e185121a959d65537736c027",
+"main.dart.js": "267974250da05c96ebdd7e67dc199713",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "27ebb4be6d1c0f10426bb4d98cc291e0",
 "icons/Icon-192.png": "2eb2e5a2f9e78888e4505e9d075c39de",
@@ -24,7 +24,6 @@ const RESOURCES = {"flutter_bootstrap.js": "f7ef735743037eed302521aebbd83d21",
 "assets/packages/timezone/data/latest_all.tzf": "5e6af46f7fdd153c308fc6531ba69d03",
 "assets/packages/iconsax_flutter/fonts/FlutterIconsax.ttf": "1e92b8f82da6912a9b7fd38c28ed3934",
 "assets/packages/flutter_inappwebview_web/assets/web/web_support.js": "509ae636cfdd93e49b5a6eaf0f06d79f",
-"assets/packages/om_chat/assets/images/chat-background.png": "b91241dd77f4cf6a16360a72247d0d6c",
 "assets/packages/flex_color_picker/assets/opacity.png": "49c4f3bcb1b25364bb4c255edcaaf5b2",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
