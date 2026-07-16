@@ -47630,7 +47630,7 @@ s=7
 return A.e(A.bzd(),$async$a33)
 case 7:n=c
 if(J.bD(n)!==0)$.f6().hB(0,"socket_token",n)
-l="wss://sila.glcpaints.com:9011/Sila/GeneralChat/GetGroupChat?GroupName=Sila&UserName="+A.r(n)
+l="wss://sila.glcpaints.com:7101/Sila/GeneralChat/GetGroupChat?GroupName=Sila&UserName="+A.r(n)
 $.d7n=l
 l=A.cYu(A.cxU(A.ih(l,0,null),null))
 $.avx=l
@@ -188889,7 +188889,7 @@ return A.e(k.hB(0,"forceChangePassword",$.XS),$async$xm)
 case 13:s=14
 return A.e(k.hB(0,"baseUrl","https://sila.glcpaints.com:7012"),$async$xm)
 case 14:s=15
-return A.e(k.hB(0,"socketUrl","wss://sila.glcpaints.com:9011"),$async$xm)
+return A.e(k.hB(0,"socketUrl","wss://sila.glcpaints.com:7101"),$async$xm)
 case 15:s=16
 return A.e(k.hB(0,"attachmentPath",$.aSV),$async$xm)
 case 16:case 11:$.bV=b
